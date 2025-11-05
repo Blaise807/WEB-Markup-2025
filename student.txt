@@ -1,0 +1,5 @@
+Student name: Balázs Szalai
+Student number: 713386
+Student class: your class
+GitHub Repository: your github repository URL
+GitHub Pages URL: https://github.com/Blaise807
